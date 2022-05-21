@@ -1,0 +1,9 @@
+{
+    "identificacao": "GFHTR124567",
+    "cliente":{
+        "id": 1
+    },
+    "tipo":"TIPO40",
+    "status": "CHEIO",
+    "categoria":"EXPORTAÇÃO"
+}

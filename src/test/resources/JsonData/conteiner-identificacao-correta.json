@@ -1,0 +1,9 @@
+{
+    "identificacao": "GFTR1234567",
+    "cliente":{
+        "id": 1
+    },
+    "tipo":"TIPO40",
+    "status": "CHEIO",
+    "categoria":"EXPORTAÇÃO"
+}
