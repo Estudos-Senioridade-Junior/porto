@@ -29,7 +29,7 @@ Requisições para a API devem seguir os padrões:
 | PUT | Atualiza dados de um registro ou altera sua situação |
 | DEL | Remove um registro do sistema |
 
-## Respostas
+## Respostas 
 | Código | Descrição |
 |---|---|
 | 200 | Requisição executada com sucesso |
